@@ -9,4 +9,5 @@ This project shows how clicking on success button will get success notification,
 -Html5 </br>
 -Raw CSS </br>
 -JavaScript </br>
--Font Awesome
+-Font Awesome </br>
+-Responsive
